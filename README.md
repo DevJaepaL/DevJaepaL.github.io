@@ -2,9 +2,17 @@
 
 ![](./Media/README_Thumnail.png)
 
-## My INFO 🙋‍♂️
+> My GitHub [Blog]() 🌳
 
- *추가 예정*
+## `Who is JaepaL ?` 🙋‍♂️
+
+> I have been learning software since **a year ago** ! 🤩
+
+
+🌏 Location : Korea Rep of , *Seoul*
+📛 Name : Jae Chan , *Lee*
+🎆 Hobby : Take Photo 📷 , Listen to Musics 🎧
+
 
 **Other Contact**
 > + [Velog 🌳](https://velog.io/@jaepal)
