@@ -2,16 +2,16 @@
 
 ![](./Media/README_Thumnail.png)
 
-> My GitHub [Blog]() 🌳
+> My GitHub **[Blog]()** 🌳
 
 ## `Who is JaepaL ?` 🙋‍♂️
 
-> I have been learning software since **a year ago** ! 🤩
+### I have been learning Software since **a year ago**. 👨‍💻
 
 
-🌏 Location : Korea Rep of , *Seoul*
-📛 Name : Jae Chan , *Lee*
-🎆 Hobby : Take Photo 📷 , Listen to Musics 🎧
+> 🌏 Location : Korea Rep of , *Seoul*
+> 
+> 📛 Name : Jae Chan , *Lee*
 
 
 **Other Contact**
