@@ -2,7 +2,7 @@
 
 ![](./Media/README_Thumnail.png)
 
-> My GitHub **[Blog]()** 🌳
+> My GitHub **[Blog](https://devjaepal.github.io/)** 🌳
 
 ## `Who is JaepaL ?` 🙋‍♂️
 
