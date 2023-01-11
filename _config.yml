@@ -28,10 +28,10 @@ github_username:  DevJaepaL
 instagram_username: jaechane
 
 # Build settings
-theme: jekyll-theme-clean-blog
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
 # Exclude from processing.
 # The following items will not be processed, by default.
