@@ -2,7 +2,7 @@
 
 ![](./img/README_Thumnail.png)
 
-[찬블로그](https://devjaepal.github.io/)에 오신 것을 환영해요 💚
+**[찬블로그](https://devjaepal.github.io/)** 에 오신 것을 환영해요 💚
 
 **Other Contact**
 > + [Velog 🍀](https://velog.io/@jaepal)
