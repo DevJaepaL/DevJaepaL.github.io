@@ -1,6 +1,6 @@
 # [JaepaL's Blog](https://devjaepal.github.io/) 🌟
 
-![](./img/README_Thumnail.png)
+![](./screenshots/ChanBLOG.png.png)
 
 **[찬블로그](https://devjaepal.github.io/)** 에 오신 것을 환영해요 💚
 
